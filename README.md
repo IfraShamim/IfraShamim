@@ -42,14 +42,11 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=333333" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=333333" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=333333" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=333333" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=333333" />
   <img src="https://img.shields.io/badge/Bootstrap5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&color=333333" />
   <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&color=333333" />
   <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white&color=333333" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&color=333333" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white&color=333333" />
-  <img src="https://img.shields.io/badge/WebSocket-00A6FF?style=for-the-badge&logo=websocket&logoColor=white&color=333333" />
 </p>
 
 ## 📊 GitHub Stats
