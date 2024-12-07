@@ -1,12 +1,36 @@
-# Welcome to My GitHub
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=IfraShamim&label=Profile%20views&color=0e75b6&style=flat" alt="IfraShamim" /></p>
+<h1 align="center"><<i>Ifra Shamim</i></h1>
+<h3 align="center"><i>Mern Stack Developer<sub> From Pakistan</sub></i></h3>
 
-<p align="center" style="background-color: #333; color: white; padding: 3rem; font-family: 'Arial', sans-serif; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 80%; margin: auto; text-align: center;">
-  <span style="font-size: 3rem; font-weight: bold; color: #00b140;">Ifra Shamim</span><br>
-  <span style="font-size: 1.5rem; color: #f0f0f0; font-weight: bold;">MERN Stack Developer</span><br><br>
-  <img src="https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=mern&logoColor=white" alt="MERN Stack Logo"><br><br>
-  <span style="font-size: 1rem; color: #f0f0f0;">Bachelor's in Computer Science from Sindh Madressatul Islam University (Batch 2020-2024)</span><br>
-  <span style="font-size: 1rem; color: #f0f0f0;">Lead Trainer of Modern Web & App Development at Saylani Mass IT Training Program</span><br>
-</p>
+<blockquote>
+  <p align="center" style="color: blue;">
+    <b><i>
+      🎓 Bachelor's in Computer Science from Sindh Madressatul Islam University (Batch 2020-2024)
+      <br>
+      👨‍🏫 Lead Trainer of Modern Web & App Development at Saylani Mass IT Training Program
+      <br>
+      🌟 Always learning and growing in the tech field!
+    </i></b>
+  </p>
+</blockquote>
+
+
+
+## 🏆 GitHub Trophies
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=IfraShamim&theme=onedark&no-frame=true&no-bg=true&margin-w=4" 
+    alt="GitHub Trophies"
+    style="max-width: 100%; height: auto;">
+</div>
+
+
+<br/>
+
+
 
 ## 🛠️ Technologies & Tools
 <p align="center">
@@ -49,11 +73,25 @@
   <a href="mailto:ifrashamim29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=333333" /></a>
 </p>
 
-## 📄 About Me
 
-<p align="center" style="background-color: black; color: green; padding: 2rem; font-family: 'Arial', sans-serif; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 80%; margin: auto;">
-  <em style="font-size: 1.5rem;">"I'm Ifra Shamim, a passionate MERN Stack Developer with experience in building full-stack applications. I specialize in using MongoDB, Express.js, React.js, and Node.js to create scalable, efficient, and responsive web applications. I'm always learning and keeping up with the latest technologies in web development to deliver high-quality solutions."</em>
-  <br><br>
-  <strong>Feel free to reach out and connect with me!</strong>
-</p>
+### ✍️ Random Dev Quote
+
+<br/>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</div>
+
+<br/>
+
+### 🔝 Top Contributed Repo
+
+<br/>
+
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=IfraShamim&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</div>
+
+<br/>
+
 
