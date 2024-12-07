@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=IfraShamim&label=Profile%20views&color=0e75b6&style=flat" alt="IfraShamim" /></p>
-<h1 align="center"><<i>Ifra Shamim</i></h1>
+<h1 align="center"><<i>Ifra Shamim</i>/></h1>
 <h3 align="center"><i>Mern Stack Developer<sub> From Pakistan</sub></i></h3>
 
 <blockquote>
