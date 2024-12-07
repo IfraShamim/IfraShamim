@@ -1,13 +1,12 @@
-<!-- Banner Section -->
-<p align="center" style="background-color: #1e1e1e; width: 100%; height: 5rem; display: flex; flex-direction: column; justify-content: center; align-items: center; font-family: 'Cursive', sans-serif; color: white; margin: 0;">
-  <span style="font-size: 3rem; font-weight: bold; line-height: 1.5rem;">Ifra Shamim</span>
-  <span style="font-size: 1.5rem; color: #f0f0f0; line-height: 1.5rem;">MERN Stack Developer</span>
+# Welcome to My GitHub
+
+<p align="center" style="background-color: #333; color: white; padding: 3rem; font-family: 'Arial', sans-serif; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 80%; margin: auto; text-align: center;">
+  <span style="font-size: 3rem; font-weight: bold; color: #00b140;">Ifra Shamim</span><br>
+  <span style="font-size: 1.5rem; color: #f0f0f0; font-weight: bold;">MERN Stack Developer</span><br><br>
+  <img src="https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=mern&logoColor=white" alt="MERN Stack Logo"><br><br>
+  <span style="font-size: 1rem; color: #f0f0f0;">Bachelor's in Computer Science from Sindh Madressatul Islam University (Batch 2020-2024)</span><br>
+  <span style="font-size: 1rem; color: #f0f0f0;">Lead Trainer of Modern Web & App Development at Saylani Mass IT Training Program</span><br>
 </p>
-
-
-
-
----
 
 ## 🛠️ Technologies & Tools
 <p align="center">
@@ -29,8 +28,6 @@
   <img src="https://img.shields.io/badge/WebSocket-00A6FF?style=for-the-badge&logo=websocket&logoColor=white&color=333333" />
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -40,8 +37,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IfraShamim&theme=radical" alt="Ifra Shamim's Streak" />
 </p>
-
----
 
 ## 📬 Connect with Me
 
@@ -54,12 +49,11 @@
   <a href="mailto:ifrashamim29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=333333" /></a>
 </p>
 
----
-
 ## 📄 About Me
 
-I'm Ifra Shamim, a passionate MERN Stack Developer with experience in building full-stack applications. I specialize in using MongoDB, Express.js, React.js, and Node.js to create scalable, efficient, and responsive web applications. I'm always learning and keeping up with the latest technologies in web development to deliver high-quality solutions.
+<p align="center" style="background-color: black; color: green; padding: 2rem; font-family: 'Arial', sans-serif; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 80%; margin: auto;">
+  <em style="font-size: 1.5rem;">"I'm Ifra Shamim, a passionate MERN Stack Developer with experience in building full-stack applications. I specialize in using MongoDB, Express.js, React.js, and Node.js to create scalable, efficient, and responsive web applications. I'm always learning and keeping up with the latest technologies in web development to deliver high-quality solutions."</em>
+  <br><br>
+  <strong>Feel free to reach out and connect with me!</strong>
+</p>
 
----
-
-**Feel free to reach out and connect with me!**
