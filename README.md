@@ -14,11 +14,7 @@
   </p>
 </blockquote>
 
-
-
-## 🏆 GitHub Trophies
-
-<br/>
+<h2 align="center"><i>🏆 GitHub Trophies</i></h2>
 
 <div align="center">
   <img 
@@ -27,12 +23,7 @@
     style="max-width: 100%; height: auto;">
 </div>
 
-
-<br/>
-
-
-
-## 🛠️ Technologies & Tools
+<h2 align="center"><i>🛠️ Technologies & Tools</i></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=333333" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&color=333333" />
@@ -49,8 +40,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&color=333333" />
 </p>
 
-## 📊 GitHub Stats
-
+<h2 align="center"><i>📊 GitHub Stats</i></h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IfraShamim&show_icons=true&count_private=true&theme=radical" alt="Ifra Shamim's GitHub Stats" />
 </p>
@@ -59,8 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IfraShamim&theme=radical" alt="Ifra Shamim's Streak" />
 </p>
 
-## 📬 Connect with Me
-
+<h2 align="center"><i>📬 Connect with Me</i></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/ifra-shamim-ab5b62263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=333333" /></a>
   <a href="https://github.com/IfraShamim" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=333333" /></a>
@@ -70,19 +59,14 @@
   <a href="mailto:ifrashamim29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=333333" /></a>
 </p>
 
-
-### ✍️ Random Dev Quote
-
+<h2 align="center"><i>✍️ Random Dev Quote</i></h2>
 <br/>
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
 
-<br/>
-
-### 🔝 Top Contributed Repo
-
+<h2 align="center"><i>🔝 Top Contributed Repo</i></h2>
 <br/>
 
 <div align="center">
