@@ -41,8 +41,6 @@
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white&color=333333" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=333333" />
 </p>
-
-
 <h2 align="center"><i>📊 GitHub Stats</i></h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IfraShamim&show_icons=true&count_private=true&theme=radical" alt="Ifra Shamim's GitHub Stats" />
