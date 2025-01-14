@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">
-  &lt;&lt;i&gt;Ifra Shamim&lt;/i&gt;/&gt;
+  <i><Ifra Shamim/></i>
 </h1>
 
 <h3 align="center">
