@@ -2,7 +2,12 @@
 <b><a href="https://ifrashamim.github.io/Github-Dev-Finder/" target="_blank" align="right">
     &#x1F517; GitHub <sub>Dev Finder</sub>
 </a></b></p>
+## Contributions
+
 [![committers.top badge](https://user-badge.committers.top/pakistan/IfraShamim.svg)](https://user-badge.committers.top/pakistan/IfraShamim)
+
+This badge represents my ranking on [committers.top](https://committers.top/pakistan/IfraShamim) for contributions to open-source projects in Pakistan.
+
 <h1 align="center"><<i>Ifra Shamim</i>/></h1>
 <h3 align="center"><i>Mern Stack Developer<sub> From Pakistan</sub></i></h3>
 <blockquote>
