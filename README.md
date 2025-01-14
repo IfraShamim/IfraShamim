@@ -58,7 +58,10 @@
 </p>
 <h2 align="center"><i>🔝 Top Contributed Repo</i></h2>
 <br/>
+## Contributions
+
 [![committers.top badge](https://user-badge.committers.top/pakistan/IfraShamim.svg)](https://user-badge.committers.top/pakistan/IfraShamim)
+
 <div align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=IfraShamim&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </div>
