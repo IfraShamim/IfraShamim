@@ -58,7 +58,6 @@
 </p>
 <h2 align="center"><i>🔝 Top Contributed Repo</i></h2>
 <br/>
-## Contributions
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/IfraShamim.svg)](https://user-badge.committers.top/pakistan/IfraShamim)
 
