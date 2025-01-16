@@ -8,13 +8,10 @@
     </a>
   </b>
 </p>
-
 <h1 align="center"><<i>Ifra Shamim</i>/></h1>
-
 <h3 align="center">
   <i>MERN Stack Developer<sub> from Pakistan</sub></i>
 </h3>
-
 <blockquote>
   <p align="center" style="color: blue;">
     <b><i>
