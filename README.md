@@ -1,18 +1,18 @@
-# 🔗 GitHub Dev Finder
+<!-- 🔗 GitHub Dev Finder -->
 
 <h1 align="center">Hi, I'm Ifra Shamim 👋</h1>
-<p align="center">
-  <b>MERN Stack Developer | Frontend Specialist | Corporate Experience at Indus Motor Company (Toyota)</b>
-</p>
+<h3 align="center">MERN Stack Developer | Frontend Specialist | Corporate Experience at Indus Motor Company (Toyota)</h3>
 
 ---
 
 ## 👩‍💻 About Me
-- 🇵🇰 MERN Stack Developer from Pakistan  
-- 🎓 Bachelor's in Computer Science from **Sindh Madressatul Islam University (2020-2024)**  
-- 👨‍🏫 Lead Trainer of Modern Web & App Development at **Saylani Mass IT Training Program**  
-- 🚗 Currently working at **Indus Motor Company (Toyota)** – Admin (Transport), managing employee pick & drop operations & using SAP for data management  
-- 🌟 Continuously exploring and innovating in the tech realm!  
+<p align="center">
+  🇵🇰 MERN Stack Developer from Pakistan <br>
+  🎓 Bachelor's in Computer Science from <b>Sindh Madressatul Islam University (2020-2024)</b> <br>
+  👨‍🏫 Lead Trainer of Modern Web & App Development at <b>Saylani Mass IT Training Program</b> <br>
+  🚗 Currently working at <b>Indus Motor Company (Toyota)</b> – Admin (Transport), managing employee pick & drop operations & using SAP for data management <br>
+  🌟 Continuously exploring and innovating in the tech realm!
+</p>
 
 ---
 
