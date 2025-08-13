@@ -1,7 +1,7 @@
 <!-- 🔗 GitHub Dev Finder -->
 
 <i><h1 align="center">&lt;Ifra Shamim/&gt;</h1></i>
-<b><p align="center">MERN Stack Developer | Frontend Specialist | Corporate Experience at Indus Motor Company (Toyota)</p></b>
+<b><i><p align="center">MERN Stack Developer | Frontend Specialist | Corporate Experience at Indus Motor Company (Toyota)</p></i></b>
 <i><h2 align="center"> About Me </h2></i>
 <p align="center">
   <ul type="circle">
