@@ -3,8 +3,6 @@
 <h1 align="center">Hi, I'm Ifra Shamim 👋</h1>
 <h3 align="center">MERN Stack Developer | Frontend Specialist | Corporate Experience at Indus Motor Company (Toyota)</h3>
 
----
-
 ## 👩‍💻 About Me
 <p align="center">
   🇵🇰 MERN Stack Developer from Pakistan <br>
@@ -14,14 +12,10 @@
   🌟 Continuously exploring and innovating in the tech realm!
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IfraShamim&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
-
----
 
 ## 🛠️ Technologies & Tools
 <p align="center">
@@ -40,15 +34,11 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IfraShamim&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IfraShamim&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
-
----
 
 ## 📬 Connect with Me
 <p align="center">
@@ -59,8 +49,6 @@
   <a href="https://www.fiverr.com/" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
   <a href="mailto:ifrashamim29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
 
 ## 🔝 Top Contributed Repo
 <p align="center">
