@@ -9,7 +9,7 @@
     <li>MERN Stack Developer from 🇵🇰</li>
     <li>Bachelor's in Computer Science from <b>Sindh Madressatul Islam University (2020-2024)</b></li>
     <li>Lead Trainer of Modern Web & App Development at <b>Saylani Mass IT Training Program</b></li>
-    <li>Currently working at <b>Indus Motor Company (Toyota)</b> – Admin (Transport), managing employee pick & drop operations & using SAP for data management</li>
+    <li>Currently working at <b>Indus Motor Company (Toyota)</b> – using SAP for data management</li>
     <li>Continuously exploring and innovating in the tech realm!</li>
     </i>
   </ul>   
